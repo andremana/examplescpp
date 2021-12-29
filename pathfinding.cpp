@@ -33,27 +33,7 @@ double width = 0, height = 0;
 double subirDescerTranslacao = 0, esquerdaDireitaTranslacao = 0;
 
 
-void mouse( int button, int state, int mx, int my )
-{
-
-//    cout <<"zzzzzzzzz,\n";
-//
-//    int parar = 0;
-//
-//        if(button == 0 && parar == 0){
-//            if(escolha == 1){
-//                escolha = 2;
-//                parar = 1;
-//            }
-//            else if(escolha == 2){
-//                escolha = 3;
-//                parar = 1;
-//            }
-//        }
-
-
-
-}
+void mouse( int button, int state, int mx, int my ){}
 
 
 void getMouseCoords( int mx, int my, double& x, double& y )
